@@ -3,7 +3,7 @@ get logon logs from your DCs, identify the workstations where accounts logs on
 extract a .csv with account / workstation / date in the working directory.
 
 # Preview
---
+![preview](https://github.com/arnaudluti/PS-LogonAudit/blob/master/preview.png?raw=true)
 
 # Prerequisites
 Active directory powershell module (installed with AD RSAT)
