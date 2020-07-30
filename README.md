@@ -4,9 +4,11 @@ extract a .csv with account / workstation / date in the working directory.
 
 # Preview
 Running
+
 ![preview](https://github.com/arnaudluti/PS-LogonAudit/blob/master/preview.png?raw=true)
 
 CSV extracted
+
 ![preview](https://raw.githubusercontent.com/arnaudluti/PS-LogonAudit/master/preview_result.png)
 
 # Prerequisites
