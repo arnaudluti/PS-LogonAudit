@@ -1,6 +1,6 @@
 # PS-LogonAudit
-get logon logs from your DCs, identify the workstations where accounts logs on
-extract a .csv with account / workstation / date in the working directory.
+Get logon logs from your DCs, identify the workstations where accounts logs on
+Extract a .csv with account / workstation / date in the working directory.
 
 # Preview
 Running
