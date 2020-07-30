@@ -1,4 +1,4 @@
-# PS-LogonAudit
+# Description
 Get logon logs from your DCs, identify the workstations where accounts logs on  
 Extract a .csv with account / workstation / date in the working directory.
 
